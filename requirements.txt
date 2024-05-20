@@ -1,0 +1,4 @@
+flask
+pytest
+python-dotenv
+requests
